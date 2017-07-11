@@ -3,7 +3,7 @@
 // Date:18.5.17
 /*-----------------------------------------*/
 #include<stdio.h>
-
+int a;
 float main()
  {
    long a;
